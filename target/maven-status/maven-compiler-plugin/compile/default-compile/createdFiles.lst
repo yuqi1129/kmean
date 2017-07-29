@@ -1,4 +1,5 @@
 com\netease\yuqi\kmean\MapReduce.class
-com\netease\yuqi\kmean\Utils.class
 com\netease\yuqi\kmean\MapReduce$Map.class
 com\netease\yuqi\kmean\MapReduce$Reduce.class
+com\netease\yuqi\kmean\DealData.class
+com\netease\yuqi\kmean\Utils.class
