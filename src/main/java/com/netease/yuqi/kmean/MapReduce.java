@@ -70,8 +70,8 @@ public class MapReduce {
                     //double filed = Math.abs(fileds.get(j));
                     //currentDistance += Math.pow((centerPoint - filed) / (centerPoint + filed), 2);
 
-                    BigDecimal tmp1 = new BigDecimal(Math.abs(centers.get(i).get(j) * 10000)) ;
-                    BigDecimal tmp2 = new BigDecimal(Math.abs(fileds.get(j) * 10000));
+                    BigDecimal tmp1 = new BigDecimal(Math.abs(centers.get(i).get(j))) ;
+                    BigDecimal tmp2 = new BigDecimal(Math.abs(fileds.get(j)));
                     BigDecimal tmp3 = tmp1.subtract(tmp2);
                     BigDecimal tmp4 = tmp1.add(tmp2);
 
@@ -123,11 +123,11 @@ public class MapReduce {
                 BigDecimal sum = new BigDecimal("0.0");
                 int size = filedsList.size();
                 for(int j=0;j<size;j++){
-                    sum = sum.add(new BigDecimal(String.valueOf(filedsList.get(j).get(i) * 10000)));
+                    sum = sum.add(new BigDecimal(String.valueOf(filedsList.get(j).get(i))));
                     //sum += filedsList.get(j).get(i);
                 }
                 //avg[i] = sum / size;
-                avg[i] = new BigDecimal(sum.divide(new BigDecimal(String.valueOf(size * 10000)),9, RoundingMode.HALF_DOWN).toString());
+                avg[i] = new BigDecimal(sum.divide(new BigDecimal(String.valueOf(size)),9, RoundingMode.HALF_DOWN).toString());
                 System.out.println("i = " + i + " avg[i] = " + avg[i].doubleValue());
             }
             double[] tmp = new double[filedSize];
@@ -152,6 +152,7 @@ public class MapReduce {
 
         job.setMapOutputKeyClass(IntWritable.class);
         job.setMapOutputValueClass(Text.class);
+        job.setNumReduceTasks(40);
 
         if(runReduce){
             //最后依次输出不许要reduce
@@ -186,7 +187,6 @@ public class MapReduce {
                 run(centerPath,dataPath,newCenterPath,false);
                 break;
             }
-
         }
     }
 

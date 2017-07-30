@@ -2,142 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68d06359-22ec-4659-adfb-6e30b029a5af" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/DealData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[0].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[100].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[101].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[102].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[103].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[104].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[105].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[106].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[107].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[108].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[109].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[10].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[110].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[111].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[112].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[113].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[114].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[115].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[116].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[117].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[118].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[119].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[11].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[12].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[13].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[14].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[15].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[16].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[17].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[18].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[19].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[1].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[20].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[21].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[22].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[23].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[24].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[25].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[26].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[27].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[28].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[29].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[2].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[30].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[31].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[32].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[33].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[34].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[35].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[36].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[37].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[38].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[39].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[3].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[40].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[41].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[42].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[43].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[44].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[45].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[46].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[47].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[48].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[49].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[4].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[50].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[51].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[52].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[53].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[54].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[55].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[56].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[57].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[58].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[59].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[5].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[60].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[61].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[62].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[63].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[64].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[65].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[66].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[67].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[68].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[69].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[6].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[70].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[71].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[72].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[73].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[74].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[75].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[76].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[77].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[78].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[79].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[7].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[80].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[81].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[82].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[83].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[84].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[85].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[86].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[87].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[88].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[89].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[8].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[90].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[91].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[92].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[93].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[94].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[95].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[96].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[97].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[98].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[99].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120Extrac/picture[9].txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/120result/result.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/ArrayDoubleWritable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/DistributedRowMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/HashMapWritable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/IntDoublePairWritable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/MyPathFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/AdjacentMatrixInputJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/AdjacentMatrixInputMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/AdjacentMatrixInputReducer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/EigenvalueDecomposition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/HadoopLanczosSolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/LanczosMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/LanczosStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/MatrixMulArrayDoubleWritableJob.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/netease/yuqi/kmean/MapReduce$Map.class" afterPath="$PROJECT_DIR$/target/classes/com/netease/yuqi/kmean/MapReduce$Map.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/netease/yuqi/kmean/MapReduce$Reduce.class" afterPath="$PROJECT_DIR$/target/classes/com/netease/yuqi/kmean/MapReduce$Reduce.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/netease/yuqi/kmean/MapReduce.class" afterPath="$PROJECT_DIR$/target/classes/com/netease/yuqi/kmean/MapReduce.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/netease/yuqi/kmean/Utils.class" afterPath="$PROJECT_DIR$/target/classes/com/netease/yuqi/kmean/Utils.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/kmean-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/kmean-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/original-kmean-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/original-kmean-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/MapReduce.java" afterPath="$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/MapReduce.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/Utils.java" afterPath="$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/Utils.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
     </list>
     <ignored path="kmean.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -160,44 +46,102 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MapReduce.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/MapReduce.java">
+      <file leaf-file-name="LanczosMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/LanczosMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="153" column="47" selection-start-line="153" selection-start-column="47" selection-end-line="153" selection-end-column="47" />
+            <state relative-caret-position="414">
+              <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="HadoopLanczosSolver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/HadoopLanczosSolver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="23">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/Utils.java">
+      <file leaf-file-name="DistributedRowMatrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/DistributedRowMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="127" column="43" selection-start-line="127" selection-start-column="43" selection-end-line="127" selection-end-column="43" />
+            <state relative-caret-position="1242">
+              <caret line="87" column="56" selection-start-line="87" selection-start-column="56" selection-end-line="87" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DealData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/DealData.java">
+      <file leaf-file-name="ArrayDoubleWritable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/ArrayDoubleWritable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="339">
+              <caret line="155" column="9" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdjacentMatrixInputJob.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/AdjacentMatrixInputJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="54" column="40" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdjacentMatrixInputMapper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/AdjacentMatrixInputMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdjacentMatrixInputReducer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/AdjacentMatrixInputReducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyPathFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/MyPathFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntDoublePairWritable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/IntDoublePairWritable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashMapWritable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/HashMapWritable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4163">
+              <caret line="208" column="5" selection-start-line="208" selection-start-column="5" selection-end-line="208" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -236,10 +180,17 @@
         <option value="$PROJECT_DIR$/src/main/resources/means_10/centers.txt" />
         <option value="$PROJECT_DIR$/src/main/resources/means_10/result.txt" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/Utils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/DealData.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/MapReduce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/AdjacentMatrixInputJob.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/DistributedRowMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/ArrayDoubleWritable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/HashMapWritable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/IntDoublePairWritable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/MyPathFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/AdjacentMatrixInputMapper.java" />
       </list>
     </option>
   </component>
@@ -264,10 +215,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="-1688" />
     <option name="y" value="-8" />
-    <option name="width" value="1874" />
-    <option name="height" value="1096" />
+    <option name="width" value="1696" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -295,11 +246,158 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="matrixdecomposition" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lanczos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="matrixdecomposition" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datamodel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,19 +409,19 @@
     <property name="SearchEverywhereHistoryKey" value="compareCenters&#9;PSI&#9;JAVA://com.netease.yuqi.kmean.Utils#compareCenters" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\JavaWorkSpace1\kmean\src\main\resources" />
-      <recent name="E:\JavaWorkSpace1\kmean\src\main\resources\120reasult" />
-      <recent name="E:\JavaWorkSpace1\apache-hive-2.1.1-src\kmean\src\main\resources\means_10" />
-      <recent name="E:\JavaWorkSpace1\apache-hive-2.1.1-src\kmean\src\main\resources\data\wine" />
-      <recent name="E:\JavaWorkSpace1\apache-hive-2.1.1-src\kmean\src\main\resources" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\JavaWorkSpace1\apache-hive-2.1.1-src\kmean\src\main\resources\data\wine" />
       <recent name="E:\JavaWorkSpace1\apache-hive-2.1.1-src\kmean\src\main\resources\data" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaWorkSpace1\kmean\src\main\java" />
+      <recent name="E:\JavaWorkSpace1\kmean\src\main\resources" />
+      <recent name="E:\JavaWorkSpace1\kmean\src\main\resources\120reasult" />
+      <recent name="E:\JavaWorkSpace1\apache-hive-2.1.1-src\kmean\src\main\resources\means_10" />
+      <recent name="E:\JavaWorkSpace1\apache-hive-2.1.1-src\kmean\src\main\resources\data\wine" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.DealData">
+  <component name="RunManager" selected="Application.LanczosMain">
     <configuration default="false" name="MapReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -372,6 +470,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.netease.yuqi.kmean.DealData" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kmean" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="LanczosMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.myhadoop.matrixdecomposition.lanczos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.myhadoop.matrixdecomposition.lanczos.LanczosMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -867,16 +985,18 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.MapReduce" />
       <item index="1" class="java.lang.String" itemvalue="Application.Utils" />
       <item index="2" class="java.lang.String" itemvalue="Application.DealData" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LanczosMain" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.DealData" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MapReduce" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Utils" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.LanczosMain" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DealData" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MapReduce" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Utils" />
       </list>
     </recent_temporary>
   </component>
@@ -910,31 +1030,33 @@
       <workItem from="1500278023558" duration="588000" />
       <workItem from="1500291595332" duration="9343000" />
       <workItem from="1500341446514" duration="20920000" />
+      <workItem from="1501323827835" duration="660000" />
+      <workItem from="1501395131893" duration="4340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68183000" />
+    <option name="totallyTimeSpent" value="73183000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="-1688" y="-8" width="1696" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277027" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32671082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4439701" sideWeight="0.5022051" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4205298" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42117116" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29166666" sideWeight="0.49779493" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.299117" sideWeight="0.49779493" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.207828" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24144255" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1000,73 +1122,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/means_10/result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/MapReduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3432">
-          <caret line="158" column="15" selection-start-line="158" selection-start-column="15" selection-end-line="158" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/data/wine/wine1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.jar!/org/apache/hadoop/mapreduce/lib/output/FileOutputFormat.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="84" column="23" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/java1.8/src.zip!/java/nio/file/FileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/KeanMap.java" />
-    <entry file="jar://D:/Program Files/java1.8/src.zip!/java/nio/file/FileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.jar!/org/apache/hadoop/mapreduce/lib/output/FileOutputFormat.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="84" column="23" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.jar!/org/apache/hadoop/mapreduce/Job.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
@@ -1235,7 +1290,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="801">
           <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1243,7 +1297,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
           <caret line="1954" column="52" selection-start-line="1954" selection-start-column="52" selection-end-line="1954" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1251,77 +1304,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2438">
           <caret line="199" column="5" selection-start-line="199" selection-start-column="5" selection-end-line="199" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#6666#6667#0" expanded="false" />
-            <element signature="e#6715#6716#0" expanded="false" />
-            <element signature="e#6868#6869#0" expanded="false" />
-            <element signature="e#6893#6894#0" expanded="false" />
-            <element signature="e#6932#6933#0" expanded="false" />
-            <element signature="e#6961#6962#0" expanded="false" />
-            <element signature="e#7011#7012#0" expanded="false" />
-            <element signature="e#7036#7037#0" expanded="false" />
-            <element signature="e#7150#7160#0" expanded="false" />
-            <element signature="e#7485#7493#0" expanded="false" />
-            <element signature="e#7669#7691#0" expanded="false" />
-            <element signature="e#7901#7909#0" expanded="false" />
-            <element signature="e#8027#8078#0" expanded="false" />
-            <element signature="e#10294#10321#0" expanded="false" />
-            <element signature="e#10498#10514#0" expanded="false" />
-            <element signature="e#14231#14232#0" expanded="false" />
-            <element signature="e#14281#14282#0" expanded="false" />
-            <element signature="e#15065#15073#0" expanded="false" />
-            <element signature="e#16864#16872#0" expanded="false" />
-            <element signature="e#18417#18418#0" expanded="false" />
-            <element signature="e#18437#18438#0" expanded="false" />
-            <element signature="e#20720#20721#0" expanded="false" />
-            <element signature="e#20767#20768#0" expanded="false" />
-            <element signature="e#21200#21201#0" expanded="false" />
-            <element signature="e#21246#21247#0" expanded="false" />
-            <element signature="e#21685#21686#0" expanded="false" />
-            <element signature="e#21732#21733#0" expanded="false" />
-            <element signature="e#22320#22321#0" expanded="false" />
-            <element signature="e#22365#22366#0" expanded="false" />
-            <element signature="e#27729#27730#0" expanded="false" />
-            <element signature="e#27761#27762#0" expanded="false" />
-            <element signature="e#32631#32632#0" expanded="false" />
-            <element signature="e#32675#32676#0" expanded="false" />
-            <element signature="e#35067#35068#0" expanded="false" />
-            <element signature="e#35108#35109#0" expanded="false" />
-            <element signature="e#36025#36026#0" expanded="false" />
-            <element signature="e#36066#36067#0" expanded="false" />
-            <element signature="e#36994#36995#0" expanded="false" />
-            <element signature="e#37036#37037#0" expanded="false" />
-            <element signature="e#38106#38107#0" expanded="false" />
-            <element signature="e#38150#38151#0" expanded="false" />
-            <element signature="e#38677#38678#0" expanded="false" />
-            <element signature="e#38714#38715#0" expanded="false" />
-            <element signature="e#46219#46220#0" expanded="false" />
-            <element signature="e#46278#46279#0" expanded="false" />
-            <element signature="e#46326#46333#0" expanded="false" />
-            <element signature="e#48169#48170#0" expanded="false" />
-            <element signature="e#48224#48225#0" expanded="false" />
-            <element signature="e#48677#48678#0" expanded="false" />
-            <element signature="e#48729#48730#0" expanded="false" />
-            <element signature="e#51321#51329#0" expanded="false" />
-            <element signature="e#62970#62971#0" expanded="false" />
-            <element signature="e#63016#63017#0" expanded="false" />
-            <element signature="e#64385#64403#0" expanded="false" />
-            <element signature="e#64900#64901#0" expanded="false" />
-            <element signature="e#64934#64935#0" expanded="false" />
-            <element signature="e#65616#65631#0" expanded="false" />
-            <element signature="e#70619#70627#0" expanded="false" />
-            <element signature="e#78330#78331#0" expanded="false" />
-            <element signature="e#78358#78359#0" expanded="false" />
-            <element signature="e#78554#78555#0" expanded="false" />
-            <element signature="e#78594#78595#0" expanded="false" />
-            <element signature="e#79464#79465#0" expanded="false" />
-            <element signature="e#79500#79501#0" expanded="false" />
-            <element signature="e#79541#79542#0" expanded="false" />
-            <element signature="e#79572#79573#0" expanded="false" />
-            <element signature="e#80951#80966#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1329,12 +1311,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#4382#4383#0" expanded="false" />
-            <element signature="e#4401#4402#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1350,80 +1326,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#4284#4325#0" expanded="false" />
-            <element signature="e#4577#4583#0" expanded="false" />
-            <element signature="e#5728#5885#0" expanded="false" />
-            <element signature="e#5884#5885#0" expanded="false" />
-            <element signature="e#8315#8316#0" expanded="false" />
-            <element signature="e#8357#8358#0" expanded="false" />
-            <element signature="e#9452#9453#0" expanded="false" />
-            <element signature="e#9470#9471#0" expanded="false" />
-            <element signature="e#14068#14233#0" expanded="false" />
-            <element signature="e#14232#14233#0" expanded="false" />
-            <element signature="e#18207#18217#0" expanded="false" />
-            <element signature="e#20201#20202#0" expanded="false" />
-            <element signature="e#20222#20223#0" expanded="false" />
-            <element signature="e#22121#22122#0" expanded="false" />
-            <element signature="e#22142#22143#0" expanded="false" />
-            <element signature="e#52133#52248#0" expanded="false" />
-            <element signature="e#52247#52248#0" expanded="false" />
-            <element signature="e#54435#54447#0" expanded="false" />
-            <element signature="e#55714#55726#0" expanded="false" />
-            <element signature="e#59681#59693#0" expanded="false" />
-            <element signature="e#61087#61099#0" expanded="false" />
-            <element signature="e#62852#62853#0" expanded="false" />
-            <element signature="e#62901#62902#0" expanded="false" />
-            <element signature="e#64400#64401#0" expanded="false" />
-            <element signature="e#64439#64440#0" expanded="false" />
-            <element signature="e#65793#65828#0" expanded="false" />
-            <element signature="e#68406#68407#0" expanded="false" />
-            <element signature="e#68427#68428#0" expanded="false" />
-            <element signature="e#76084#76085#0" expanded="false" />
-            <element signature="e#76122#76123#0" expanded="false" />
-            <element signature="e#76606#76607#0" expanded="false" />
-            <element signature="e#76646#76647#0" expanded="false" />
-            <element signature="e#78147#78148#0" expanded="false" />
-            <element signature="e#78169#78170#0" expanded="false" />
-            <element signature="e#83452#83489#0" expanded="false" />
-            <element signature="e#85019#85036#0" expanded="false" />
-            <element signature="e#87200#87213#0" expanded="false" />
-            <element signature="e#88352#88364#0" expanded="false" />
-            <element signature="e#88819#88832#0" expanded="false" />
-            <element signature="e#90016#90017#0" expanded="false" />
-            <element signature="e#90085#90086#0" expanded="false" />
-            <element signature="e#90591#90592#0" expanded="false" />
-            <element signature="e#90678#90679#0" expanded="false" />
-            <element signature="e#91095#91096#0" expanded="false" />
-            <element signature="e#91129#91130#0" expanded="false" />
-            <element signature="e#91637#91638#0" expanded="false" />
-            <element signature="e#91680#91681#0" expanded="false" />
-            <element signature="e#91861#91862#0" expanded="false" />
-            <element signature="e#91907#91908#0" expanded="false" />
-            <element signature="e#92067#92068#0" expanded="false" />
-            <element signature="e#92105#92106#0" expanded="false" />
-            <element signature="e#92278#92279#0" expanded="false" />
-            <element signature="e#92321#92322#0" expanded="false" />
-            <element signature="e#92480#92481#0" expanded="false" />
-            <element signature="e#92519#92520#0" expanded="false" />
-            <element signature="e#92646#92647#0" expanded="false" />
-            <element signature="e#92682#92683#0" expanded="false" />
-            <element signature="e#92819#92820#0" expanded="false" />
-            <element signature="e#92858#92859#0" expanded="false" />
-            <element signature="e#93022#93023#0" expanded="false" />
-            <element signature="e#93077#93078#0" expanded="false" />
-            <element signature="e#93285#93286#0" expanded="false" />
-            <element signature="e#93324#93325#0" expanded="false" />
-            <element signature="e#93511#93512#0" expanded="false" />
-            <element signature="e#93546#93547#0" expanded="false" />
-            <element signature="e#94112#94113#0" expanded="false" />
-            <element signature="e#94139#94140#0" expanded="false" />
-            <element signature="e#94486#94506#0" expanded="false" />
-            <element signature="e#96343#96344#0" expanded="false" />
-            <element signature="e#96374#96375#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1431,120 +1333,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1012">
           <caret line="88" column="33" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#32367#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#2426#2427#0" expanded="false" />
-            <element signature="e#2461#2462#0" expanded="false" />
-            <element signature="e#7501#7502#0" expanded="false" />
-            <element signature="e#7537#7538#0" expanded="false" />
-            <element signature="e#9261#9262#0" expanded="false" />
-            <element signature="e#9297#9298#0" expanded="false" />
-            <element signature="e#10976#10977#0" expanded="false" />
-            <element signature="e#11012#11013#0" expanded="false" />
-            <element signature="e#13895#13896#0" expanded="false" />
-            <element signature="e#13925#13926#0" expanded="false" />
-            <element signature="e#13959#13960#0" expanded="false" />
-            <element signature="e#13995#13996#0" expanded="false" />
-            <element signature="e#14219#14220#0" expanded="false" />
-            <element signature="e#14282#14283#0" expanded="false" />
-            <element signature="e#14336#14337#0" expanded="false" />
-            <element signature="e#14383#14384#0" expanded="false" />
-            <element signature="e#14441#14442#0" expanded="false" />
-            <element signature="e#14492#14493#0" expanded="false" />
-            <element signature="e#14537#14538#0" expanded="false" />
-            <element signature="e#14597#14598#0" expanded="false" />
-            <element signature="e#14649#14650#0" expanded="false" />
-            <element signature="e#14698#14699#0" expanded="false" />
-            <element signature="e#14747#14748#0" expanded="false" />
-            <element signature="e#14811#14812#0" expanded="false" />
-            <element signature="e#14867#14868#0" expanded="false" />
-            <element signature="e#14920#14921#0" expanded="false" />
-            <element signature="e#14970#14971#0" expanded="false" />
-            <element signature="e#15009#15010#0" expanded="false" />
-            <element signature="e#15059#15060#0" expanded="false" />
-            <element signature="e#15137#15138#0" expanded="false" />
-            <element signature="e#15952#15953#0" expanded="false" />
-            <element signature="e#15982#15983#0" expanded="false" />
-            <element signature="e#16022#16023#0" expanded="false" />
-            <element signature="e#16078#16079#0" expanded="false" />
-            <element signature="e#16119#16120#0" expanded="false" />
-            <element signature="e#16158#16159#0" expanded="false" />
-            <element signature="e#16201#16202#0" expanded="false" />
-            <element signature="e#16260#16261#0" expanded="false" />
-            <element signature="e#16294#16295#0" expanded="false" />
-            <element signature="e#16330#16331#0" expanded="false" />
-            <element signature="e#18351#18352#0" expanded="false" />
-            <element signature="e#18386#18387#0" expanded="false" />
-            <element signature="e#18544#18545#0" expanded="false" />
-            <element signature="e#18575#18576#0" expanded="false" />
-            <element signature="e#19102#19103#0" expanded="false" />
-            <element signature="e#19136#19137#0" expanded="false" />
-            <element signature="e#19202#19203#0" expanded="false" />
-            <element signature="e#19243#19244#0" expanded="false" />
-            <element signature="e#19798#19799#0" expanded="false" />
-            <element signature="e#19847#19848#0" expanded="false" />
-            <element signature="e#20068#20069#0" expanded="false" />
-            <element signature="e#20094#20095#0" expanded="false" />
-            <element signature="e#20143#20144#0" expanded="false" />
-            <element signature="e#20184#20185#0" expanded="false" />
-            <element signature="e#20219#20220#0" expanded="false" />
-            <element signature="e#20255#20256#0" expanded="false" />
-            <element signature="e#21877#21878#0" expanded="false" />
-            <element signature="e#21915#21916#0" expanded="false" />
-            <element signature="e#21964#21965#0" expanded="false" />
-            <element signature="e#22007#22008#0" expanded="false" />
-            <element signature="e#22068#22069#0" expanded="false" />
-            <element signature="e#22104#22105#0" expanded="false" />
-            <element signature="e#22750#22751#0" expanded="false" />
-            <element signature="e#22788#22789#0" expanded="false" />
-            <element signature="e#24640#24641#0" expanded="false" />
-            <element signature="e#24698#24699#0" expanded="false" />
-            <element signature="e#24730#24731#0" expanded="false" />
-            <element signature="e#24762#24763#0" expanded="false" />
-            <element signature="e#25214#25215#0" expanded="false" />
-            <element signature="e#25247#25248#0" expanded="false" />
-            <element signature="e#25291#25292#0" expanded="false" />
-            <element signature="e#25351#25352#0" expanded="false" />
-            <element signature="e#25641#25642#0" expanded="false" />
-            <element signature="e#25698#25699#0" expanded="false" />
-            <element signature="e#25740#25741#0" expanded="false" />
-            <element signature="e#25782#25783#0" expanded="false" />
-            <element signature="e#25817#25818#0" expanded="false" />
-            <element signature="e#25856#25857#0" expanded="false" />
-            <element signature="e#25917#25918#0" expanded="false" />
-            <element signature="e#25961#25962#0" expanded="false" />
-            <element signature="e#26022#26023#0" expanded="false" />
-            <element signature="e#26069#26070#0" expanded="false" />
-            <element signature="e#26678#26679#0" expanded="false" />
-            <element signature="e#26713#26714#0" expanded="false" />
-            <element signature="e#27195#27196#0" expanded="false" />
-            <element signature="e#27253#27254#0" expanded="false" />
-            <element signature="e#27303#27304#0" expanded="false" />
-            <element signature="e#27357#27358#0" expanded="false" />
-            <element signature="e#27618#27619#0" expanded="false" />
-            <element signature="e#27691#27692#0" expanded="false" />
-            <element signature="e#27960#27961#0" expanded="false" />
-            <element signature="e#28004#28005#0" expanded="false" />
-            <element signature="e#28455#28456#0" expanded="false" />
-            <element signature="e#28487#28488#0" expanded="false" />
-            <element signature="e#31427#31428#0" expanded="false" />
-            <element signature="e#31485#31486#0" expanded="false" />
-            <element signature="e#31540#31541#0" expanded="false" />
-            <element signature="e#31585#31586#0" expanded="false" />
-            <element signature="e#31752#31753#0" expanded="false" />
-            <element signature="e#31795#31796#0" expanded="false" />
-            <element signature="e#31839#31840#0" expanded="false" />
-            <element signature="e#31885#31886#0" expanded="false" />
-            <element signature="e#31937#31938#0" expanded="false" />
-            <element signature="e#31989#31990#0" expanded="false" />
-            <element signature="e#32040#32041#0" expanded="false" />
-            <element signature="e#32084#32085#0" expanded="false" />
-            <element signature="e#32119#32120#0" expanded="false" />
-            <element signature="e#32158#32159#0" expanded="false" />
-            <element signature="e#32327#32328#0" expanded="false" />
-            <element signature="e#32359#32360#0" expanded="false" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/120Extrac/picture[0].txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/java1.8/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/java1.8/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/java1.8/src.zip!/java/math/RoundingMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="92" column="12" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/java1.8/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="1283" column="36" selection-start-line="1283" selection-start-column="36" selection-end-line="1283" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/120result/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="84" selection-start-line="8" selection-start-column="84" selection-end-line="8" selection-end-column="84" />
         </state>
       </provider>
     </entry>
@@ -1558,85 +1395,104 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="127" column="43" selection-start-line="127" selection-start-column="43" selection-end-line="127" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/120Extrac/picture[0].txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/java1.8/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/final.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/java1.8/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/java1.8/src.zip!/java/math/RoundingMode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="92" column="12" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/java1.8/src.zip!/java/math/BigDecimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="1283" column="36" selection-start-line="1283" selection-start-column="36" selection-end-line="1283" selection-end-column="36" />
-          <folding>
-            <element signature="e#115713#115714#0" expanded="false" />
-            <element signature="e#115770#115771#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/120result/result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="84" selection-start-line="8" selection-start-column="84" selection-end-line="8" selection-end-column="84" />
+        <state relative-caret-position="269">
+          <caret line="156" column="21" selection-start-line="156" selection-start-column="21" selection-end-line="156" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/DealData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
+        <state relative-caret-position="255">
           <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/netease/yuqi/kmean/MapReduce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="153" column="47" selection-start-line="153" selection-start-column="47" selection-end-line="153" selection-end-column="47" />
+        <state relative-caret-position="247">
+          <caret line="173" column="77" selection-start-line="173" selection-start-column="77" selection-end-line="173" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/DistributedRowMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="87" column="56" selection-start-line="87" selection-start-column="56" selection-end-line="87" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/ArrayDoubleWritable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="155" column="9" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/AdjacentMatrixInputJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="54" column="40" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/MyPathFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/IntDoublePairWritable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/AdjacentMatrixInputReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/HadoopLanczosSolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/datamodel/HashMapWritable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4163">
+          <caret line="208" column="5" selection-start-line="208" selection-start-column="5" selection-end-line="208" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/LanczosMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/myhadoop/matrixdecomposition/lanczos/AdjacentMatrixInputMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding />
         </state>
       </provider>
