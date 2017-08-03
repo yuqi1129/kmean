@@ -24,19 +24,19 @@ public class LanczosMain {
 		System.out.println("start");
 		long startall = System.currentTimeMillis();
 		// TODO Auto-generated method stub
-		String root = "lanczosoutput";
-		Path in = new Path("lanczosinput");
-		Path out = new Path(root,"matrix");
-		Path tmp = new Path(root,"tmp");
-		int size = 1000000;
-		int desireRank = 80;
+		String root = "hdfs://hadoop702.lt.163.org:8020/user/big";
+		Path in = new Path("hdfs://hadoop702.lt.163.org:8020/user/big/DSIFTFeature");
+		Path out = new Path("hdfs://hadoop702.lt.163.org:8020/user/big/perfoutput");
+		Path tmp = new Path("hdfs://hadoop702.lt.163.org:8020/user/big/tmp");
+		int size = 311814;
+		int desireRank = 1000;
 		long start_matread = System.currentTimeMillis();
 		AdjacentMatrixInputJob.runJob(in, out);
 		long end_matread = System.currentTimeMillis();
 		
 		DistributedRowMatrix mat = new DistributedRowMatrix(out,tmp,size);
 		
-		Path EigenVector = new Path(root,"eigenvector");
+		Path EigenVector = new Path("hdfs://hadoop702.lt.163.org:8020/user/big/eigenvector");
 		LanczosStatus ls = new LanczosStatus(mat,desireRank);
 		long start_lanczos = System.currentTimeMillis();
 		HadoopLanczosSolver solver = new HadoopLanczosSolver();

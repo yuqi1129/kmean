@@ -183,7 +183,7 @@ public class MapReduce {
             run(centerPath,dataPath,newCenterPath,true);
             System.out.println("the " + ++count + "th calculation");
 
-            if(Utils.compareCenters(centerPath,newCenterPath )){
+            if(Utils.compareCenters(centerPath,newCenterPath) || count == 20){
                 run(centerPath,dataPath,newCenterPath,false);
                 break;
             }

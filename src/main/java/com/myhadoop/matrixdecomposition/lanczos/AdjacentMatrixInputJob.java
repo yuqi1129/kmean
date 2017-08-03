@@ -13,6 +13,7 @@ import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.NullWritable;
 import org.apache.hadoop.io.SequenceFile;
+import org.apache.hadoop.io.Text;
 import org.apache.hadoop.io.Writable;
 import org.apache.hadoop.mapred.lib.NLineInputFormat;
 import org.apache.hadoop.mapreduce.Job;
@@ -40,12 +41,16 @@ public class AdjacentMatrixInputJob {
 			
 		//FilsSystem是抽象类，需用get接口返回具体类
 		//删除已有的输出文件夹
-		FileSystem fs = FileSystem.get(conf);	
-		fs.delete(out, true);
-		fs.close();
+		//FileSystem fs = FileSystem.get(conf);
+		//fs.delete(out, true);
+		//fs.close();
+
+
+		FileSystem hdfs = out.getFileSystem(conf);
+		hdfs.delete(out ,true);
 			
 		job.setMapOutputKeyClass(IntWritable.class);
-		job.setMapOutputValueClass(IntWritable.class);
+		job.setMapOutputValueClass(Text.class);
 		job.setOutputKeyClass(IntWritable.class);
 		job.setOutputValueClass(HashMapWritable.class);
 			
@@ -55,7 +60,7 @@ public class AdjacentMatrixInputJob {
 		job.setMapperClass(AdjacentMatrixInputMapper.class);
 		job.setReducerClass(AdjacentMatrixInputReducer.class);
 			
-		job.setNumReduceTasks(40);
+		//job.setNumReduceTasks(40);
 			
 		//设置输入输出路径
 		FileInputFormat.addInputPath(job, in);			

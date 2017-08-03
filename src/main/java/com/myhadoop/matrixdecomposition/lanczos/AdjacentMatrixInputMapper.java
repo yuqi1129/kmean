@@ -11,11 +11,13 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
 public class AdjacentMatrixInputMapper
-extends Mapper<LongWritable,Text,IntWritable,IntWritable>
+//extends Mapper<LongWritable,Text,IntWritable,IntWritable>
+	extends Mapper<LongWritable,Text,IntWritable,Text>
 {	
 	@Override
 	protected void map(LongWritable key,Text value,Context context)	
 			throws IOException,InterruptedException	{
+		/**
 		String line = value.toString();
 		String[] content = line.split(",");
 
@@ -27,5 +29,8 @@ extends Mapper<LongWritable,Text,IntWritable,IntWritable>
 		IntWritable col = new IntWritable(Integer.parseInt(content[1]));
 		context.write(row, col);
 		//context.write(col, row);
+		 */
+		context.write(new IntWritable(1), value);
+
 	}
 }
