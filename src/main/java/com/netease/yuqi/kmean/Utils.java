@@ -110,6 +110,10 @@ public class Utils {
             }
         }
         System.out.println("Now oldSize = " + size + " newSize = " + newCenters.size());
+
+
+
+
         //double distance = 0;
         BigDecimal distance = new BigDecimal("0.0");
 

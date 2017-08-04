@@ -152,7 +152,7 @@ public class MapReduce {
 
         job.setMapOutputKeyClass(IntWritable.class);
         job.setMapOutputValueClass(Text.class);
-        job.setNumReduceTasks(40);
+        //job.setNumReduceTasks(40);
 
         if(runReduce){
             //最后依次输出不许要reduce
@@ -173,7 +173,7 @@ public class MapReduce {
 //        String dataPath = "hdfs://hadoop702.lt.163.org:8020/user/data/120Extrac";
 //        String newCenterPath = "hdfs://hadoop702.lt.163.org:8020/user/data/output";
 
-
+//
         String centerPath = "hdfs://hadoop702.lt.163.org:8020/user/big/centers.txt";
         String dataPath = "hdfs://hadoop702.lt.163.org:8020/user/big/DSIFTFeature";
         String newCenterPath = "hdfs://hadoop702.lt.163.org:8020/user/big/output";
